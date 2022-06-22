@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.space {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+.Hello {
+	color: blueviolet;
+}
+.Myname {
+	font-size: 16px;
+	font-weight: bold;
+	color: aqua;
+	background-color: bisque;
+	width: 200px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
